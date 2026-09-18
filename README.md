@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <h1>Hi, I'm Yousef Sayed 👋</h1>
 
@@ -12,7 +12,6 @@ I’m a Computer Science student passionate about <b>Data Science, Machine Learn
 I enjoy turning data into meaningful insights and building practical solutions through code.
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
 </div>
 
@@ -139,7 +138,6 @@ class YousefSayed:
 * 🐍 Python programming projects
 
 ---
-
 
 ## 🔥 Contribution Streak
 
